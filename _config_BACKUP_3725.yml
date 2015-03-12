@@ -9,9 +9,15 @@ relative_permalinks: true
 # Setup
 title:            Share Economy
 tagline:          'A Jekyll theme'
+<<<<<<< HEAD
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /ShareEconomy
+=======
 description:      'Share Economy 相关文章翻译、收集'
 url:              http://jackzhang1988.github.io/ShareEconomy/
 baseurl:          /ShareEconomy/
+>>>>>>> gh-pages
 
 author:
   name:           'Jianbo Zhang'
