@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Share Economy
 tagline:          'A Jekyll theme'
 description:      'Share Economy 相关文章翻译、收集'
-url:              http://jackzhang1988.github.io/ShareEconomy/
+url:              http://blog.zxshare.cn
 baseurl:          /ShareEconomy/
 
 author:
